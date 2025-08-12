@@ -1,4 +1,4 @@
-# 🎯 Nome do Projeto — *nome-secreto*
+# 🎯 *Nome-secreto*
 
 ## 📖 Sobre o Projeto
 Este projeto foi desenvolvido como parte de um estudo de **desenvolvimento front-end**.  
